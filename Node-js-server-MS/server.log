@@ -1,0 +1,148 @@
+Example app listening at http://localhost:5000
+✅ Connected to MongoDB successfully
+📍 Database: Local MongoDB at localhost:27017
+Cannot read properties of undefined (reading 'filename')
+{
+  name: 'akhlesh',
+  adhaar_number: '123456781234567',
+  location: {
+    continent_code: 'AS',
+    region: 'Uttar Pradesh',
+    latitude: '28.6677',
+    longitude: '77.4337',
+    ip: '2401:4900:1c60:bd0:b8f5:b61a:6e93:4b29',
+    city: 'Ghaziabad',
+    timezone: 'Asia/Kolkata',
+    organization_name: 'Bharti Airtel Ltd., Telemedia Services',
+    country: 'India',
+    asn: 24560,
+    organization: 'AS24560 Bharti Airtel Ltd., Telemedia Services',
+    area_code: '0',
+    accuracy: 20,
+    country_code3: 'IND',
+    country_code: 'IN'
+  },
+  _id: new ObjectId("69078c99b75859a9298914be"),
+  date: 2025-11-02T16:53:45.989Z,
+  __v: 0
+}
+{
+  name: 'arush',
+  adhaar_number: '123456789012345678',
+  location: {
+    continent_code: 'AS',
+    region: 'Uttar Pradesh',
+    latitude: '28.6677',
+    longitude: '77.4337',
+    ip: '2401:4900:1c60:bd0:b8f5:b61a:6e93:4b29',
+    city: 'Ghaziabad',
+    timezone: 'Asia/Kolkata',
+    organization_name: 'Bharti Airtel Ltd., Telemedia Services',
+    country: 'India',
+    asn: 24560,
+    organization: 'AS24560 Bharti Airtel Ltd., Telemedia Services',
+    area_code: '0',
+    accuracy: 20,
+    country_code3: 'IND',
+    country_code: 'IN'
+  },
+  _id: new ObjectId("69078e89b75859a9298914ce"),
+  date: 2025-11-02T17:02:01.886Z,
+  __v: 0
+}
+{
+  name: 'akhlesh',
+  adhaar_number: '123456781234567',
+  location: {
+    continent_code: 'AS',
+    region: 'Uttar Pradesh',
+    latitude: '28.6677',
+    longitude: '77.4337',
+    ip: '2401:4900:1c60:bd0:b8f5:b61a:6e93:4b29',
+    city: 'Ghaziabad',
+    timezone: 'Asia/Kolkata',
+    organization_name: 'Bharti Airtel Ltd., Telemedia Services',
+    country: 'India',
+    asn: 24560,
+    organization: 'AS24560 Bharti Airtel Ltd., Telemedia Services',
+    area_code: '0',
+    accuracy: 20,
+    country_code3: 'IND',
+    country_code: 'IN'
+  },
+  _id: new ObjectId("69078e8ab75859a9298914d1"),
+  date: 2025-11-02T17:02:02.808Z,
+  __v: 0
+}
+{
+  name: 'akhlesh',
+  adhaar_number: '123456781234567',
+  location: {
+    continent_code: 'AS',
+    region: 'Uttar Pradesh',
+    latitude: '28.6677',
+    longitude: '77.4337',
+    ip: '2401:4900:1c60:bd0:b8f5:b61a:6e93:4b29',
+    city: 'Ghaziabad',
+    timezone: 'Asia/Kolkata',
+    organization_name: 'Bharti Airtel Ltd., Telemedia Services',
+    country: 'India',
+    asn: 24560,
+    organization: 'AS24560 Bharti Airtel Ltd., Telemedia Services',
+    area_code: '0',
+    accuracy: 20,
+    country_code3: 'IND',
+    country_code: 'IN'
+  },
+  _id: new ObjectId("69079302b75859a9298914db"),
+  date: 2025-11-02T17:21:06.160Z,
+  __v: 0
+}
+{
+  name: 'akhlesh',
+  adhaar_number: '123456781234567',
+  location: {
+    continent_code: 'AS',
+    region: 'Uttar Pradesh',
+    latitude: '28.6677',
+    longitude: '77.4337',
+    ip: '2401:4900:1c60:bd0:b8f5:b61a:6e93:4b29',
+    city: 'Ghaziabad',
+    timezone: 'Asia/Kolkata',
+    organization_name: 'Bharti Airtel Ltd., Telemedia Services',
+    country: 'India',
+    asn: 24560,
+    organization: 'AS24560 Bharti Airtel Ltd., Telemedia Services',
+    area_code: '0',
+    accuracy: 20,
+    country_code3: 'IND',
+    country_code: 'IN'
+  },
+  _id: new ObjectId("6907930bb75859a9298914de"),
+  date: 2025-11-02T17:21:15.763Z,
+  __v: 0
+}
+{
+  name: 'akhlesh',
+  adhaar_number: '123456781234567',
+  location: {
+    continent_code: 'AS',
+    region: 'Uttar Pradesh',
+    latitude: '28.6677',
+    longitude: '77.4337',
+    ip: '2401:4900:1c60:bd0:b8f5:b61a:6e93:4b29',
+    city: 'Ghaziabad',
+    timezone: 'Asia/Kolkata',
+    organization_name: 'Bharti Airtel Ltd., Telemedia Services',
+    country: 'India',
+    asn: 24560,
+    organization: 'AS24560 Bharti Airtel Ltd., Telemedia Services',
+    area_code: '0',
+    accuracy: 20,
+    country_code3: 'IND',
+    country_code: 'IN'
+  },
+  _id: new ObjectId("69079323b75859a9298914e2"),
+  date: 2025-11-02T17:21:39.793Z,
+  __v: 0
+}

@@ -1,0 +1,32 @@
+# Python-specific ignores for the face_recognition module
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments used in this folder
+.venv
+.venv*/
+.venv-win/
+.venv311/
+venv/
+
+# Streamlit specific
+.streamlit/
+
+# Data / uploads / cache
+uploads/
+images/
+assets/
+*.db
+*.sqlite3
+
+# Environment
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
